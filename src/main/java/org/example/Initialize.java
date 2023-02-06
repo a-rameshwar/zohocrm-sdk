@@ -74,8 +74,8 @@ public class Initialize
          */
         // if grant token is available
         Token token = new OAuthToken.Builder()
-                .clientID("1000.T90ISZY7JYCPI0LVXQK1Y1DTY3ZW2H")
-                .clientSecret("2d9e7c506882b889133a956c6e3cdbbb6540e085be")
+                .clientID("")
+                .clientSecret("")
                 .grantToken("1000.65a82692f239ad964ed5e6a88e1ec437.2adfa0be15ace1c9d2b4b386d514ddf0")
                 .redirectURL("https://www.zohoapis.in")
                 .refreshToken("1000.e634cd99fac8e49d65b0fa6e64a79318.94c28c6305ec779ecf340f6d36f3ec0c")
